@@ -1,0 +1,4 @@
+[20-11-03 02:11:53][debug] i love you, zy
+[20-11-03 02:11:53][info] hello world!
+[20-11-03 03:11:05][error] Use of undefined constant heeaa - assumed 'heeaa' (this will throw an Error in a future version of PHP) at D:\project\test\routes\web.php:56
+[20-11-03 03:11:13][error] Use of undefined constant heeaa - assumed 'heeaa' (this will throw an Error in a future version of PHP) at D:\project\test\routes\web.php:56
